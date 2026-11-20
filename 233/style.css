@@ -11,17 +11,17 @@
 	border: 1px solid lightskyblue;
 }
 #k1{
-	grid-row: 1/2;
+	grid-row: 1/5;
 }
 #k2{
-	grid-row: 3/2;
+	grid-row: 1/2;
 }
 #k3{
-	grid-row: 2/1;
+	grid-row: 2/3;
 }
 #k4{
-	grid-row: 4/2;
+	grid-row: 3/4;
 }
 #k5{
-	grid-row: 3/4;
+	grid-row: 4/5;
 }
